@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-MODULE_ID="smart-vision-restrictor-module"
+MODULE_ID="smart-vision-restrictor"
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUT="${1:-${ROOT}/../${MODULE_ID}.zip}"
 
