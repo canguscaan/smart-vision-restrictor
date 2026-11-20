@@ -54,7 +54,7 @@
   ],
   "license": "LICENSE",
   "readme": "README.md",
-  "bugs": "https://github.com/thystra/vision-restrictor-module/issues",
-  "changelog": "https://github.com/thystra/vision-restrictor-module/releases",
+  "bugs": "https://github.com/canguscaan/smart-vision-restrictor-module/issues",
+  "changelog": "https://github.com/canguscaan/smart-vision-restrictor-module/releases",
   "library": false
 }
