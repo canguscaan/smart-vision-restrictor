@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-const MODULE_ID = "vision-restrictor-module";
+const MODULE_ID = "smart-vision-restrictor-module";
 const FLAG_MAX_RANGE = "maxRange";
 const SETTING_DEFAULT_MAX_RANGE = "defaultMaxRange";
 const SETTING_HARD_MASK_ALPHA = "hardMaskAlpha";
