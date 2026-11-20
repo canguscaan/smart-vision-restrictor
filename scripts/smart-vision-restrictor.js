@@ -373,6 +373,9 @@ function getHardMaskRadiusPx(token) {
   // sense radius. This matters for special senses such as blindsight: a token
   // may have a 10 ft blindsight source while still being in a globally lit
   // scene where the environmental fog cap should be 55 ft.
+  console.log(token?._getDetectionModes())
+
+  
   return getMaxRangePx(token);
 }
 
