@@ -9,7 +9,7 @@ Original module: https://github.com/thystra/vision-restrictor-module/releases/la
 
 ## Installation
 
-Use this URL to install the module: https://github.com/canguscaan/smart-vision-restrictor-module/releases/latest/download/module.json
+Use this URL to install the module: https://github.com/canguscaan/smart-vision-restrictor/releases/latest/download/module.json
 
 Then restart Foundry, enable **Vision Restrictor** in your world, and reload the world.
 
