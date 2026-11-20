@@ -40,10 +40,10 @@
     ]
   },
   "esmodules": [
-    "scripts/vision-restrictor.js"
+    "scripts/smart-vision-restrictor.js"
   ],
   "styles": [
-    "styles/vision-restrictor.css"
+    "styles/smart-vision-restrictor.css"
   ],
   "languages": [
     {
