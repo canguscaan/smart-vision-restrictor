@@ -1,5 +1,5 @@
 {
-  "id": "smart-vision-restrictor-module",
+  "id": "smart-vision-restrictor",
   "title": "Smart Vision Restrictor",
   "description": "Applies a GM-configured hard maximum vision range for scenes, useful for fog, smoke, haze, blizzards, magical obscurity, or large open maps. The range is interpreted in the scene's configured distance units.",
   "version": "0.1.0",
@@ -54,7 +54,7 @@
   ],
   "license": "LICENSE",
   "readme": "README.md",
-  "bugs": "https://github.com/canguscaan/smart-vision-restrictor-module/issues",
-  "changelog": "https://github.com/canguscaan/smart-vision-restrictor-module/releases",
+  "bugs": "https://github.com/canguscaan/smart-vision-restrictor/issues",
+  "changelog": "https://github.com/canguscaan/smart-vision-restrictor/releases",
   "library": false
 }
